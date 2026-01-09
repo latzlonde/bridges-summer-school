@@ -1,3 +1,3 @@
 # bridges-summer-school
-- Name: Youmei, GitHub Account: youmei-code
-- Name: Bridges, Github Account: test
+- Name: Junior, GitHub Account: junior-code
+- name: bridges, github account test
